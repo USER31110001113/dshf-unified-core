@@ -1,0 +1,11 @@
+# ==========================================
+# REJECT LIST: Keep these local on your machine
+# ==========================================
+brain.bin
+corpus.txt
+university_physics.pdf
+target/
+
+# ==========================================
+# ALLOW LIST: Everything else will go to Git
+# ==========================================
